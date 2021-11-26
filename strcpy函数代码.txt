@@ -1,3 +1,13 @@
+/*/*/*/*/*/*
+
+strcpy函数代码
+
+*/*/*/*/*/*/
+
+
+
+
+
 char* StrCpy(char* src)
 {
    int i=0;
@@ -10,3 +20,7 @@ char* StrCpy(char* src)
    p[i]='\0';
    return p;
 }
+
+/**
+远程edit
+**/
