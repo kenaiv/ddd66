@@ -8,6 +8,8 @@ strcpy函数代码
 
 
 
+
+
 char* StrCpy(char* src)
 {
    int i=0;
